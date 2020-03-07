@@ -1,6 +1,6 @@
 <html>
  <body style='background-color:black'>
-  <p>I'm hosted with Github Pages!</p>
-  <p>It's very easy to use! </p>
+  <p style='color:green'>I'm hosted with Github Pages!</p>
+  <p style='color:yellow'>It's very easy to use!</p>
  </body>
 </html>
